@@ -20,17 +20,13 @@
 
 
 ---
+## 🛠️ Tech Toolbox
 
-## 📚 Education
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,react,postgres,tensorflow,pytorch,opencv,javascript,html,css" />
+</p>
 
-🎓 **Dayananda Sagar College of Engineering**, Bengaluru  
-*Bachelor of Engineering – Information Science & Engineering (2022–2026)*  
-**GPA**: 8.55
-
-🏫 **Vidyodaya PU College**, Udupi  
-*Pre-University Course (2019–2021)* – **95%**
-
----
+--- 
 
 ## 🔧 Technical Skills
 
@@ -73,8 +69,4 @@
 
 ---
 
-## 🛠️ Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,react,postgres,tensorflow,pytorch,opencv,javascript,html,css" />
-</p>
