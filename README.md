@@ -1,40 +1,80 @@
-<h1 align="center">Hi 👋, I'm Manish Shetty</h1>
-<h3 align="center">A passionate Software Engineer and AI Enthusiast</h3>
-
-- 🔭 I’m currently working on **Customer Churn Prediction with FastAPI & Docker**
-- 🌱 I’m learning **LLMs, Generative AI, and Full Stack Development**
-- 💬 Ask me about **FastAPI, Streamlit, ML, Docker, Python**
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
-- 📄 [My Resume](https://link-to-resume.com)
+<h1 align="center">Hey 👋, I'm Manish Shetty</h1>
+<h3 align="center">AI Engineer | Full Stack Developer | Machine learning & Analyst Enthusiast</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🌟 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+- 📈 Passionate about building intelligent systems using **AI, Deep Learning, and NLP**
+- ⚙️ Exploring **LLMs, RAG, LangChain, Whisper, and Full Stack AI Apps**
+- 🛠️ Interested in **AI4Gov, Edge AI, Healthcare AI**
+- 🧑‍🏫 Love mentoring and building clean, production-ready systems
 
 ---
 
-### 📊 GitHub Stats:
+## 💼 Experience
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| **AIML Intern** | Centre for e-Governance (CeG), Karnataka | *Jun 2025 – Present* |
+
+
+---
+
+## 📚 Education
+
+🎓 **Dayananda Sagar College of Engineering**, Bengaluru  
+*Bachelor of Engineering – Information Science & Engineering (2022–2026)*  
+**GPA**: 8.55
+
+🏫 **Vidyodaya PU College**, Udupi  
+*Pre-University Course (2019–2021)* – **95%**
+
+---
+
+## 🔧 Technical Skills
+
+- **Languages**: Python, SQL, JavaScript
+- **Frameworks**: FastAPI, Streamlit, React.js, Bootstrap
+- **ML/DL**: Scikit-learn, PyTorch, TensorFlow, ResNet, LSTM, YOLOv5/8, GANs
+- **NLP**: Hugging Face, spaCy, BERT, LangChain, Whisper, RAG, OpenAI
+- **Tools**: Docker, Git, Roboflow, W&B, Power BI, Excel
+- **DB**: PostgreSQL, SQLite
+- **Other**: OpenCV, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+
+## 🏅 Achievements & Certifications
+
+- 🥇 **Best Coder Award – DSCE**
+- 📜 **NPTEL – Data Mining (Jan–Mar 2025)**
+- 🧰 **Certified System Administrator – ServiceNow**
+
+---
+
+## 🌐 Find Me Online
+
+| Platform | Link |
+|---------|------|
+| 💼 LinkedIn | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
+| 📬 Email | [2004manishshetty@gmail.com](mailto:2004manishshetty@gmail.com) |
+| 🧑‍💻 GitHub | [github.com/Manishshetty939](https://github.com/Manishshetty939) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishshetty939&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishshetty939&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishshetty939&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manishshetty939&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishshetty939&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishshetty939&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ Tech Toolbox
 
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,git,react,postgres,tensorflow,pytorch,opencv,javascript,html,css" />
 </p>
